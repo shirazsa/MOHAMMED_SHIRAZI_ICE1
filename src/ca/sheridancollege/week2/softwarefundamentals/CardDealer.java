@@ -20,5 +20,6 @@ public class CardDealer
         
         Card tenClubs = new Card("Clbs", 10);
         tenClubs.setSuit("diamonds");
+        //Edit on Github
     }
 }
